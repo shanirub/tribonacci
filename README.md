@@ -1,1 +1,3 @@
 tribonacci
+
+codewars kata
